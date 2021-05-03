@@ -1,0 +1,75 @@
+.leftpanel{
+display: inline-block;
+  float: left;
+  height: 100%;
+  width: 20%;
+  background-color: #de8971;
+  padding-top: 3rem;
+}
+.rightpanel{
+display: inline-block;
+  height: 100%;
+  width: 80%;
+  background-color:#fff ;
+}
+
+/* left */
+.title-image{
+  max-width:60%;
+  height:auto;
+  padding: 1.2rem 0 0 1rem;
+}
+.nav{
+  padding-top: 1rem;
+}
+.nav-item{
+  padding-left: 1.5rem;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.2rem;
+
+}
+.nav-link{
+  color: #a7d0cd;
+}
+.navbar-brand{
+font-family: "Montserrat", sans-serif;
+font-size: 2.5rem;
+font-weight: bold;
+padding-left: 2.2rem;
+color: #a7d0cd;
+}
+.icons{
+  padding: 10rem 1.5rem;
+
+}
+.fab{
+  margin: 0 8%;
+  color: #a7d0cd;
+}
+.fa-twitter:hover{color:#fff;}
+.fa-facebook-f:hover{color:#fff;}
+.fa-instagram:hover{color:#fff;}
+
+.footer {
+  padding-left: 1.5rem;
+  padding-bottom: 0;
+  align-items: center;
+  position: absolute;
+  bottom: .1px;
+  margin-bottom: 0;
+
+}
+/* right */
+.hello{
+font-family: "Montserrat", sans-serif;
+font-size: 5rem;
+font-weight: 900;
+}
+
+.desc{
+  padding-top: 2rem;
+  font-family: "Montserrat-light", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-align: left;
+}
